@@ -17,14 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoSSanches&show_icons=true&theme=tokyonight)
  
-
-
-## ✉️ Find me on:
-
-<p align="center">
- <a href="www.linkedin.com/in/thiago-soares-04904a237" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
-</p>
-
 <br />
 
 ## 🧰 Languages and Tools:
