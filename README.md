@@ -1,4 +1,5 @@
 <h2>- 👋 Hi, I’m @ThiagoSSanches</h2>
+
 - 👀 I’m interested in learn more about programming languages.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate and participate on programming language projects.
