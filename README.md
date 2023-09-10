@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSSanches&hide=javascript)
 
-![Snake animation](https://github.com/ThiagoSSanches/ThiagoSSanches/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ThiagoSSanches/blob/output/github-contribution-grid-snake.svg)
 
 
 
