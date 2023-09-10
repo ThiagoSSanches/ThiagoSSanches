@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ThiagoSSanches
+<h2>- 👋 Hi, I’m @ThiagoSSanches</h2>
 - 👀 I’m interested in learn more about programming languages.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate and participate on programming language projects.
-- 📫 How to reach me: www.linkedin.com/in/thiago-soares-04904a237
 - ✨"Through him God made all things; not one thing in all creation was made without him." John 1:3✨
 
 
