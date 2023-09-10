@@ -14,4 +14,5 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSSanches&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoSSanches&show_icons=true&theme=tokyonight)
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.ThiagoSSanches)
+[![Github](https://img.shields.io/github/followers/ThiagoSSanches?label=Follow&style=social)](https://github.com/ThiagoSSanches)
 
