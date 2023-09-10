@@ -11,10 +11,12 @@ ThiagoSSanches/ThiagoSSanches is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="justify">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSSanches&theme=tokyonight)
+
+<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoSSanches&show_icons=true&theme=tokyonight)
-</p>  
+ 
 
 
 ## ✉️ Find me on:
