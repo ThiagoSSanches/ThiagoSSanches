@@ -13,5 +13,5 @@ ThiagoSSanches/ThiagoSSanches is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<img src="/files/gifplaneships.mp4">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoSSanches&show_icons=true)
