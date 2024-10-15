@@ -1,7 +1,7 @@
 <h2> 👋 Hi, I’m @ThiagoSSanches</h2>
 
 - 👀 I’m interested in learn more about programming languages.
-- 🌱 I’m currently learning Dart.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate and participate on programming language projects.
 - ✨"<em>Through him God made all things; not one thing in all creation was made without him.</em>" John 1:3✨
 
